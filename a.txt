@@ -1,2 +1,3 @@
 this is the first file
 this is another line of text, from branch B1
+this is some editing, from branch B3
